@@ -1,0 +1,58 @@
+.box1{
+    margin: 0;
+    width: 100%;
+    height: 18rem;
+    background-color: brown;
+}
+.box2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 50%;
+    height: 12rem;
+    margin: 0;
+}
+.box3{
+    border-width: 0.5rem;
+    width: 50%;
+    height: 12rem;
+    background-color: coral;
+}
+.box4{
+    border-width: 0.5rem;
+    width: 50%;
+    height: 12rem;
+    background-color: darkseagreen;
+}
+.box5{
+    width: 25%;
+    height: 12rem;
+    margin: 0;
+    background-color: deepskyblue;
+}
+.box6{
+    margin: 0;
+    width: 25%;
+    height: 12rem;
+    background-color: darkcyan;
+}
+.box7{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    height: 15rem;
+    margin: 0;
+}
+.box8{
+    margin: 0;
+    width: 50%;
+    height: 15rem;
+    background-color: coral;
+}
+.box9{
+    margin: 0;
+    width: 50%;
+    height: 15rem;
+    background-color: darkseagreen;
+}
